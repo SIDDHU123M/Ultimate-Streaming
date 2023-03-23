@@ -80,3 +80,5 @@ A --> E(Mac)
 ```
 
 <h4 align='center'>© 2023-4 ツ Sidharth</h4>
+---
+[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&icon=0&color=0)](https://visitcount.itsvg.in)

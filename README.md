@@ -58,7 +58,7 @@ I welcome any contributions that improve the project. If you would like to contr
 * [CineViz](https://cinevez.ch/latest-movies/)
 * [9xMovies](https://9xmovie.store/)
 * [TheMovieRulz](https://themovierulz.bio/)
-* [MovieRulz](https://www.google.com/search?q=movierulz)   ` 'Any First Link'`
+* [MovieRulz](https://www.google.com/search?q=movierulz)   `'Any First Link'`
 
 ## Note :
 ` If a site doesn't work, try using a proxy or a VPN. If the issue persists, type the raw text into your search engine and open the first URL, as the site may have been updated. Stay persistent and don't give up!`

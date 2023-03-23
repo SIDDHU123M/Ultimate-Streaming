@@ -1,7 +1,7 @@
 
 # Unlimited Streaming Entertainment
 
-> A collection of awesome android application and webapp resources.
+> Welcome to the curated list of awesome websites and apps! Here, you will find a collection of resources that can assist you in streaming movies and series for free.
 
 ## Contributing 
 I welcome any contributions that improve the project. If you would like to contribute, please follow these steps :

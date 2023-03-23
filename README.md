@@ -10,6 +10,8 @@ I welcome any contributions that improve the project. If you would like to contr
 3.  Make changes to your branch
 4.  Create a pull request against the `main` branch of this repository
 
+[![VIEWCOUNT](https://visitcount.itsvg.in/api?id=SIDDHU123M&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🎬 Movies & Series
 
 * [FilmXY](https://www.filmxy.vip/)
@@ -80,5 +82,3 @@ A --> E(Mac)
 ```
 
 <h4 align='center'>© 2023-4 ツ Sidharth</h4>
----
-[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&icon=0&color=0)](https://visitcount.itsvg.in)

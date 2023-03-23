@@ -1,5 +1,5 @@
 
-# Unlimited Streaming Entertainment
+#Unlimited Streaming Entertainment
 
 > Welcome to the curated list of awesome websites and apps! Here, you will find a collection of resources that can assist you in streaming movies and series for free.
 
